@@ -1,0 +1,1 @@
+# webpack-git-hash-plugin
